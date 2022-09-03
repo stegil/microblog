@@ -1,5 +1,13 @@
 flask~=2.2.2
 python-dotenv~=0.20.0
-flask-wtf~=1.0.1
+
+# Database
 flask-sqlalchemy~=2.5.1
 flask-migrate~=3.1.0
+
+# Flask-wtf
+flask-wtf~=1.0.1
+email-validator~=1.2.1
+
+# Other
+flask-login~=0.6.2
